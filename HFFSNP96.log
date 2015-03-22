@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.1)  22 MAR 2015 16:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.10.1)  22 MAR 2015 17:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -183,43 +183,54 @@ sion > 4. Object streams disabled now.
 <esologo.pdf, id=1, 2677.00125pt x 3491.0425pt>
 File: esologo.pdf Graphic file (type pdf)
  <use esologo.pdf>
-Package pdftex.def Info: esologo.pdf used on input line 1355.
+Package pdftex.def Info: esologo.pdf used on input line 1641.
 (pdftex.def)             Requested size: 65.438pt x 85.35826pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 1355.
+(Font)              <6> on input line 1641.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 1355.
-LaTeX Font Info:    Try loading font information for U+lasy on input line 1355.
+(Font)              <5> on input line 1641.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 1641.
 
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 ) A4
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 1355.
+(Font)              <7> on input line 1641.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <13> not available
-(Font)              size <12> substituted on input line 1355.
+(Font)              size <12> substituted on input line 1641.
 
 [1
 
 {/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./esolo
-go.pdf>] [2] <galaxy.pdf, id=27, 141.52875pt x 141.52875pt>
-File: galaxy.pdf Graphic file (type pdf)
- <use galaxy.pdf>
-Package pdftex.def Info: galaxy.pdf used on input line 1355.
-(pdftex.def)             Requested size: 141.5284pt x 141.5284pt.
+go.pdf>]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+ [2] <ratesDTDall.jpg, id=30, 837.6093pt x 429.2838pt>
+File: ratesDTDall.jpg Graphic file (type jpg)
 
-[3 <./galaxy.pdf>] [4] [5]
+<use ratesDTDall.jpg>
+Package pdftex.def Info: ratesDTDall.jpg used on input line 1641.
+(pdftex.def)             Requested size: 837.60725pt x 429.28275pt.
+ <SN_Preston.png, id=31, 1025.8325pt x 374.39874pt>
+File: SN_Preston.png Graphic file (type png)
+
+<use SN_Preston.png>
+Package pdftex.def Info: SN_Preston.png used on input line 1641.
+(pdftex.def)             Requested size: 1025.83002pt x 374.39783pt.
+ [3 <./ratesDTDall.jpg> <./SN_Preston.png>] [4] [5]
 \runCount=\count119
 \tmprunCount=\count120
 \runLen=\count121
- [6] [7] [8]
+
+[6] [7]
 \insCount=\count122
 \tmpCount=\count123
 \insLen=\count124
- [9] [10]
+ [8] [9]
 
 ************************************************************************
 ************************************************************************
@@ -241,16 +252,16 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 2325 strings out of 493117
- 31714 string characters out of 6135433
- 118378 words of memory out of 5000000
- 5775 multiletter control sequences out of 15000+600000
- 7702 words of font info for 30 fonts, out of 8000000 for 9000
+ 2335 strings out of 493117
+ 31876 string characters out of 6135433
+ 130404 words of memory out of 5000000
+ 5782 multiletter control sequences out of 15000+600000
+ 8356 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,16n,28p,1344b,313s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><
-/usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+</usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></
 usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/l
 ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/loca
@@ -259,10 +270,11 @@ exlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/te
 xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/tex
 live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/te
 xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on HFFSNP96.pdf (10 pages, 218032 bytes).
+live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texli
+ve/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on HFFSNP96.pdf (9 pages, 5053026 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

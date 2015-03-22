@@ -1,0 +1,1 @@
+ESO P96 proposal to follow up SN discovered in the Hubble Frontier Field with X-shooter. 
